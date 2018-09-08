@@ -13,6 +13,7 @@
 		5062AC682141CB1E00D56A32 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5062AC662141CB1E00D56A32 /* LaunchScreen.storyboard */; };
 		5062AC712141CB9400D56A32 /* ImageViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5062AC702141CB9400D56A32 /* ImageViewController.swift */; };
 		5062AC732141D21C00D56A32 /* DemoURLs.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5062AC722141D21C00D56A32 /* DemoURLs.swift */; };
+		5062AC752144631700D56A32 /* CassiniViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5062AC742144631700D56A32 /* CassiniViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		5062AC692141CB1E00D56A32 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		5062AC702141CB9400D56A32 /* ImageViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageViewController.swift; sourceTree = "<group>"; };
 		5062AC722141D21C00D56A32 /* DemoURLs.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = DemoURLs.swift; path = "../../../../Downloads/CS193P-Fall-2017-DEMO-master/Cassini L9/Cassini/DemoURLs.swift"; sourceTree = "<group>"; };
+		5062AC742144631700D56A32 /* CassiniViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CassiniViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 			children = (
 				5062AC6F2141CB3A00D56A32 /* Supporting Files */,
 				5062AC612141CB1C00D56A32 /* Main.storyboard */,
+				5062AC742144631700D56A32 /* CassiniViewController.swift */,
 				5062AC692141CB1E00D56A32 /* Info.plist */,
 				5062AC702141CB9400D56A32 /* ImageViewController.swift */,
 				5062AC722141D21C00D56A32 /* DemoURLs.swift */,
@@ -149,6 +152,7 @@
 				5062AC712141CB9400D56A32 /* ImageViewController.swift in Sources */,
 				5062AC5E2141CB1C00D56A32 /* AppDelegate.swift in Sources */,
 				5062AC732141D21C00D56A32 /* DemoURLs.swift in Sources */,
+				5062AC752144631700D56A32 /* CassiniViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
